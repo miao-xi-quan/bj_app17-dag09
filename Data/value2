@@ -1,0 +1,7 @@
+info: &data
+  name: "全哥"
+  phome: "17701206742"
+
+address:
+  <<: *data
+  datail: "TBD 10ceng"

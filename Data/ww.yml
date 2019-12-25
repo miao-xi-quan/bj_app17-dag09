@@ -1,0 +1,11 @@
+aeb:
+  sea1:
+    ex:
+      value: 全哥
+    value: 帅哥
+  sea2:
+    ex:
+    - 1
+    - 2
+    - 3
+    value: 456
